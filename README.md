@@ -1,2 +1,2 @@
 # cwc-website
-New CWC website using no frameworks
+New Connecting With Code website using no frameworks
