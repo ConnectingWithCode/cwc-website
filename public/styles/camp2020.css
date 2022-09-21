@@ -1,0 +1,27 @@
+#links {
+    font-size: 22px;
+}
+
+#office-hours-table {
+    margin: 30px;
+}
+
+#office-hours-table  td,
+#office-hours-table  th {
+    text-align: center;
+}
+
+.daily-video {
+    margin: 20px;
+}
+
+.example-instructions {
+    text-align: center;
+    position: relative;
+    top: -15px;
+    font-style: italic;
+}
+
+/* .lesson-info {
+    display: none;
+} */
